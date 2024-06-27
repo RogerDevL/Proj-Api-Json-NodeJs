@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "nome ",
+    "descricao": "descricao",
+    "preco": "15,00",
+    "imagemName": "img.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "nome ",
+    "descricao": "descricao",
+    "preco": "100",
+    "imagemName": "the lats.jpg"
+  }
+]
